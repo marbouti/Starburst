@@ -11,7 +11,7 @@ Notes:
 3- This version keeps the plain (un-encrypted) passwords in the database. Please use it at your own risk regarding security issues. 
 4- The visualization part is based on JavaScript InfoVis Toolkit (http://philogb.github.io/jit/).
 
-Ppotential Future Development 
+Potential Future Development
 -dealing with the problem of very long threads
 -creating a version with multiple starbursts
 -add search/find function 
